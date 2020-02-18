@@ -1,0 +1,22 @@
+{
+  "journeys": [
+    {
+      "id": 1,
+      "from": "Helsinki",
+      "to": "Tampere",
+      "train": "Intercity"
+    },
+    {
+      "id": 2,
+      "from": "Helsinki",
+      "to": "Turku",
+      "train": "Pendolino"
+    },
+    {
+      "id": 3,
+      "from": "Turku",
+      "to": "Tampere",
+      "train": "Pikajuna"
+    }
+  ]
+}
